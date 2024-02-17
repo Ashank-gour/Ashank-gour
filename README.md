@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashank-gour
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Full stack..
+- 🌱 I’m currently learning Android app development 
 - 📫 You can reach me through my Gamil :- Ashankgaur700@gmail.com
 
 <!---
